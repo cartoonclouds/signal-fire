@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Signal Fire",
+    "slug": "signal-fire",
+    "scheme": "signalfire",
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
